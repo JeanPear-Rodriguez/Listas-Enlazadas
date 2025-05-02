@@ -1,5 +1,3 @@
-# Listas-Enlazadas
-
 <?php 
 
 clases Nodo{
