@@ -1,5 +1,6 @@
 <?php 
 
+
 clases Nodo{
      Public $dato;
      Public $siguiente;
